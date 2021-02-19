@@ -93,4 +93,13 @@
             @include text_headline($topbar-download-url-button-font-color);
         }
     }
+
+    
+    .title
+    {
+        font-size: 1.5em;
+        font-weight: bolder;
+        margin-right: 1em;
+        color: $soutxchange-dark-gray;
+    }
 }
